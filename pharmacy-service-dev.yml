@@ -14,7 +14,7 @@ spring:
 #spublic repo      
 store:
   storeName: Appolo
-  storeNo: 100
-  managerName: mark
+  storeNo: 20
+  managerName: david
   openingHours: 11
   closingHours: 23      
