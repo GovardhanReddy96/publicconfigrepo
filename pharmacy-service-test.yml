@@ -12,3 +12,9 @@ spring:
       ddl-auto: update
       
 #spublic repo      
+store:
+  storeName: Medplus
+  storeNo: 200
+  managerName: seth
+  openingHours: 10
+  closingHours: 23      

@@ -12,3 +12,9 @@ spring:
       ddl-auto: update
       
 #spublic repo      
+store:
+  storeName: Appolo
+  storeNo: 100
+  managerName: mark
+  openingHours: 11
+  closingHours: 23      
